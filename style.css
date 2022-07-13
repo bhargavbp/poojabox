@@ -1,0 +1,143 @@
+.headerTop{
+    background-color: rgb(253, 85, 113);
+    padding: 10px;
+}
+.topLine{
+    text-align: center;
+}
+.heading{
+    color: white;
+    font-size: medium;
+    font-weight: bolder;
+    font-stretch: expanded;
+}
+.logo{
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.search{
+    width: 5%;
+    height: 5%;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.cart{
+    width: 5%;
+    height: 5%;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.d-flex{
+    padding-top: 10px;
+    padding-left: 200px;
+}
+.form-control{
+    width: 20%;
+}
+
+.container-fluid{
+    padding-left: 9%;
+    padding-bottom: 10px;
+}
+
+
+.title{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.para-lines{
+    padding-left: 9%;
+    padding-right: 9%;
+}
+.read-more{
+    color: rgb(236, 90, 115);
+    background-color: white;
+    border: 0cm;
+}
+.dropbox{
+    background-color: white;
+    border-color: gray;
+    color: black;
+    border-radius: 0;
+}
+.dropdown{
+    text-align: right;
+    padding-right: 10%;
+    padding-top: 10px;
+}
+.video-section{
+    width: 100%;
+    height: 100%;
+}
+#circular-caraousels{
+    padding-top: 40px;
+}
+.col{
+    text-align: center;
+    
+}
+#Rakhi_gifts{
+    padding-top: 40px;
+}
+#Ganesh_Murtis{
+    padding-top: 40px;
+}
+#Salt_Lamps{
+    padding-top: 40px;
+}
+#info{
+    padding-top: 40px;
+    padding-left: 11%;
+    padding-right: 9%;
+    padding-bottom: 30px;
+}
+.adc{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.poster{
+    padding-top: 40px;
+}
+.info_heading{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+.icons{
+    border-right: 2px solid grey;
+    height: 60px;
+}
+.footer-col{
+    text-align: left;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+    padding-top: 90px;
+    background-color: #ffafb6;
+    color: white;
+}
+.fa-brands{
+    background-color: none;
+    color: white;
+    padding-right: 10px;
+}
+.social-media{
+    background-color: #ffafb6;
+    border-color: white;
+    color: white;
+}
+.my{
+    font-family: 'Mr Dafoe', cursive;
+}
+.footer-list{
+    padding-top: 15px;
+}
+.phno{
+    white-space: nowrap;
+}
+h5{
+    font-family:'Times New Roman', Times, serif;
+}
+a{
+    color: inherit;
+}
